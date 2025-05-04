@@ -1,1 +1,2 @@
-select * from table1;
+select * from table1
+where col1 = '1';
